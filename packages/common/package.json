@@ -1,0 +1,22 @@
+{
+  "name": "common",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "tym3515 <tym3515@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "dev": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}

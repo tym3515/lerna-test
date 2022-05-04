@@ -1,0 +1,24 @@
+{
+  "name": "core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "tym3515 <tym3515@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "chokidar": "^3.5.3",
+    "serve": "^13.0.2"
+  }
+}
